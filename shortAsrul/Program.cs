@@ -59,7 +59,9 @@ namespace shortAsrul
             Console.WriteLine("");
         }
         public void BubbletSortArray()
-        {
+
+        
+\\        {
             for (int i = 1; i < n; i++) //For n-1 passes
             {
                 //Pada pass i, bandingkan n-i elemen pertama dengan elemen selanjutnya
